@@ -5,7 +5,7 @@ Xor Encry ShellCode With x86
 
 ### 使用（22/5/4优化）:
 
-1. CS生成x86 payload，去掉头尾只保留payload
+1. CS生成x86 payload
 ```
 XorEncry payload.c
 ```
